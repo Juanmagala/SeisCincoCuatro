@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638295059 source:c:\users\juanm\desktop\tp final lab 1 - galarce - frias\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+	"FuncionCapitan.h"
+
+1636849821 c:\users\juanm\desktop\tp final lab 1 - galarce - frias\funciones.h
+	<windows.h>
+
+1638588146 c:\users\juanm\desktop\tp final lab 1 - galarce - frias\funcioncapitan.h
+	"funciones.h"
+
